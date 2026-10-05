@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "2.2.6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611312842",
-  "sha256": "4a09c746b3bd0e7eecb756482181dcd7e73d60800c7c63c27ffce781afb92cb6",
-  "size": 2770132,
-  "notes": "首个公开 APK 分发版本。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.2.6"
+  "versionCode": 33,
+  "versionName": "2.2.7",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611331712",
+  "sha256": "5ae6039d121f1cefa47754608e7435cb027c84061c5f692f73383fa34cfb2960",
+  "size": 2770184,
+  "notes": "更新入口迁移到独立公开分发仓库；源码仓库已设为私有。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.2.7"
 }
