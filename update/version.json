@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "2.3.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611570735",
-  "sha256": "51e99ed776eccf97e39637bd1a9bd7789726217f853fc18936e00c3c19eb35ba",
-  "size": 2779760,
-  "notes": "新增前台自动检查更新、版本提醒、APK 下载与安装；支持稍后提醒、忽略版本、下载恢复和安装前画布恢复保护。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.1"
+  "versionCode": 37,
+  "versionName": "2.3.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611680447",
+  "sha256": "18cf5cd5d191119299347e8cf490134edb076d67f4d8788a34bdab041c885352",
+  "size": 2780344,
+  "notes": "修复部分一加手机全屏模式下图片无法选中、窗口尺寸不同步导致命中偏移和轻微触控抖动误判问题。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.2"
 }
