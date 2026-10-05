@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "2.3.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611422381",
-  "sha256": "b6495ed141b375ef8c0955cd5d86eac2697fc7b990e1f176a68d921adada174c",
-  "size": 2774136,
-  "notes": "优化设置弹窗布局：平板居中窗口、固定导航和独立滚动内容；设置项分组更清晰。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.0"
+  "versionCode": 36,
+  "versionName": "2.3.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611570735",
+  "sha256": "51e99ed776eccf97e39637bd1a9bd7789726217f853fc18936e00c3c19eb35ba",
+  "size": 2779760,
+  "notes": "新增前台自动检查更新、版本提醒、APK 下载与安装；支持稍后提醒、忽略版本、下载恢复和安装前画布恢复保护。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.1"
 }
