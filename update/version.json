@@ -1,9 +1,9 @@
 {
   "versionCode": 38,
   "versionName": "2.3.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/612026241",
-  "sha256": "a730e0dea5addea9c3aa44b1c9e88b3528dd266c21862ae9b58811904c958e07",
-  "size": 2780424,
-  "notes": "修复导入菜单打开时右下角一键排版按钮点击无效的问题。修复全屏 dismiss 遮罩拦截一键排版按钮的问题。",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/612083357",
+  "sha256": "540cb089a343fa35e3a942d9f67f7b42a6aa9424a781650b7debd415f3bf2898",
+  "size": 2780384,
+  "notes": "修复空白画布切换后视口尺寸清零导致一键排版失效，以及导入菜单遮罩拦截排版按钮的问题。",
   "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.3"
 }
