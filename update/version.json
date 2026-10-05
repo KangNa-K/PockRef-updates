@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "2.3.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/611680447",
-  "sha256": "18cf5cd5d191119299347e8cf490134edb076d67f4d8788a34bdab041c885352",
-  "size": 2780344,
-  "notes": "修复部分一加手机全屏模式下图片无法选中、窗口尺寸不同步导致命中偏移和轻微触控抖动误判问题。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.2"
+  "versionCode": 38,
+  "versionName": "2.3.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/612026241",
+  "sha256": "a730e0dea5addea9c3aa44b1c9e88b3528dd266c21862ae9b58811904c958e07",
+  "size": 2780424,
+  "notes": "修复导入菜单打开时右下角一键排版按钮点击无效的问题。修复全屏 dismiss 遮罩拦截一键排版按钮的问题。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.3"
 }
