@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "2.3.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/612083357",
-  "sha256": "540cb089a343fa35e3a942d9f67f7b42a6aa9424a781650b7debd415f3bf2898",
-  "size": 2780384,
-  "notes": "修复空白画布切换后视口尺寸清零导致一键排版失效，以及导入菜单遮罩拦截排版按钮的问题。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.3"
+  "versionCode": 39,
+  "versionName": "2.3.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/615366008",
+  "sha256": "7bb90c2231f34a3442845b9def02dbb648e8685ac4edfe32e55c07340fbd3140",
+  "size": 2780424,
+  "notes": "修复部分 .pur 文件中的 JPEG 参考图因大段 EXIF/XMP 元数据导致尺寸探测失败、打开后长期显示低清马赛克的问题。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.4"
 }
