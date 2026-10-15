@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "2.3.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/615366008",
-  "sha256": "7bb90c2231f34a3442845b9def02dbb648e8685ac4edfe32e55c07340fbd3140",
-  "size": 2780424,
-  "notes": "修复部分 .pur 文件中的 JPEG 参考图因大段 EXIF/XMP 元数据导致尺寸探测失败、打开后长期显示低清马赛克的问题。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.4"
+  "versionCode": 40,
+  "versionName": "2.3.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/643848793",
+  "sha256": "3b7e9315b4985db6bb37cc2d95a90c98ebc3ed2b53300e9539ecab80689c2b16",
+  "size": 2781540,
+  "notes": "修复悬浮窗息屏期间自动保存可能清空 .pur 源文件的问题，并增强保存失败后的安全重试。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.5"
 }
