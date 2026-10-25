@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "2.3.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/643848793",
-  "sha256": "3b7e9315b4985db6bb37cc2d95a90c98ebc3ed2b53300e9539ecab80689c2b16",
-  "size": 2781540,
-  "notes": "修复悬浮窗息屏期间自动保存可能清空 .pur 源文件的问题，并增强保存失败后的安全重试。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.3.5"
+  "versionCode": 41,
+  "versionName": "2.4.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/675314082",
+  "sha256": "b82b4171d390b686090d66688b318d497ab1039c13a05f202f2a395394e19ef9",
+  "size": 2870260,
+  "notes": "更新画布玻璃质感界面与工具布局，增强标记绘制、套索、局部擦除及共享标记互通；修复选色不即时生效和标记手势问题。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.0"
 }
