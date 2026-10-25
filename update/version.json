@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "2.4.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/675314082",
-  "sha256": "b82b4171d390b686090d66688b318d497ab1039c13a05f202f2a395394e19ef9",
-  "size": 2870260,
-  "notes": "更新画布玻璃质感界面与工具布局，增强标记绘制、套索、局部擦除及共享标记互通；修复选色不即时生效和标记手势问题。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.0"
+  "versionCode": 42,
+  "versionName": "2.4.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/675482612",
+  "sha256": "577f78b28c50ecbc7e3bbea025a660356adb884240279e91ca5652bcb38c3d2e",
+  "size": 2883284,
+  "notes": "优化相册拖入：匹配已有图片显示高度，保持原比例，在落点附近自动排列并避让旧图；改善分组排版及速写练习设置面板。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.1"
 }
