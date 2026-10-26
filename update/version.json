@@ -1,9 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "2.4.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/675482612",
-  "sha256": "577f78b28c50ecbc7e3bbea025a660356adb884240279e91ca5652bcb38c3d2e",
-  "size": 2883284,
-  "notes": "优化相册拖入：匹配已有图片显示高度，保持原比例，在落点附近自动排列并避让旧图；改善分组排版及速写练习设置面板。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.1"
+  "versionCode": 43,
+  "versionName": "2.4.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/676582864",
+  "sha256": "dadc8d98c5bcf2e4e69e8059ec72a457f3c692f66da6ad54f34b166736ddc22f",
+  "size": 2884384,
+  "notes": "图层窗口中双击图片聚焦后，再次双击同一图片会取消聚焦，并恢复聚焦前的画布缩放和位置。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.2"
 }
