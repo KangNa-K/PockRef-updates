@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "2.4.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/676582864",
-  "sha256": "dadc8d98c5bcf2e4e69e8059ec72a457f3c692f66da6ad54f34b166736ddc22f",
-  "size": 2884384,
-  "notes": "图层窗口中双击图片聚焦后，再次双击同一图片会取消聚焦，并恢复聚焦前的画布缩放和位置。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.2"
+  "versionCode": 44,
+  "versionName": "2.4.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/692587285",
+  "sha256": "5d6486b589e24326ae381b65d116b7f7cdf3c41589a6320de5e659cf9210db54",
+  "size": 2877968,
+  "notes": "修复首页文件封面、返回首页弹窗关闭问题；支持点击文件名重命名，并将首页多选操作改为悬浮工具栏。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.3"
 }
