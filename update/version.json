@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "2.4.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/692587285",
-  "sha256": "5d6486b589e24326ae381b65d116b7f7cdf3c41589a6320de5e659cf9210db54",
-  "size": 2877968,
-  "notes": "修复首页文件封面、返回首页弹窗关闭问题；支持点击文件名重命名，并将首页多选操作改为悬浮工具栏。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.3"
+  "versionCode": 45,
+  "versionName": "2.4.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/696046976",
+  "sha256": "4e4b18c99e6513ecb668c296ccd3bc81ea2949dd15c58f9050bb9f686341b1c5",
+  "size": 3579018,
+  "notes": "修复速写模式暂停时的大白区域和按钮无法点击问题；练习图片改为后台解码，切换图片不再闪黑屏。",
+  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.4"
 }
