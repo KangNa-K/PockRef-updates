@@ -1,9 +1,1 @@
-{
-  "versionCode": 45,
-  "versionName": "2.4.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/696046976",
-  "sha256": "4e4b18c99e6513ecb668c296ccd3bc81ea2949dd15c58f9050bb9f686341b1c5",
-  "size": 3579018,
-  "notes": "修复速写模式暂停时的大白区域和按钮无法点击问题；练习图片改为后台解码，切换图片不再闪黑屏。",
-  "releaseUrl": "https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.4.4"
-}
+{"versionCode":46,"versionName":"2.5.0","apkUrl":"https://api.github.com/repos/KangNa-K/PockRef-updates/releases/assets/704015922","sha256":"c1e76a9bc4338ec7208f19ab06c3af8f0228c5c17568d4dd8090505e4e33a4df","size":3611786,"notes":"新增长按图片吸取原图颜色，支持放大镜和 S Pen 悬浮放大取色。","releaseUrl":"https://github.com/KangNa-K/PockRef-updates/releases/tag/release-2.5.0"}
